@@ -1,0 +1,2 @@
+Simple Example file created in the local server
+Adding some content to it
